@@ -1,0 +1,20 @@
+{
+   "name": "ml-canvas",
+   "version": "1.0.0",
+   "description": "Fake Mobile Legends lobby card generator",
+   "main": "index.js",
+   "engines": {
+      "node": ">=20"
+   },
+   "keywords": [
+      "mobile-legends",
+      "fake-ml",
+      "card-generator",
+      "canvas"
+   ],
+   "author": "Darrel Parker",
+   "license": "MIT",
+   "peerDependencies": {
+      "@napi-rs/canvas": "^1.0.0"
+   }
+}
