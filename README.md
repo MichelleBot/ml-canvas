@@ -1,9 +1,5 @@
 # fake-ml
 
-![npm version](https://img.shields.io/npm/v/fake-ml)
-![npm downloads](https://img.shields.io/npm/dm/fake-ml)
-![license](https://img.shields.io/npm/l/fake-ml)
-
 Fake Mobile Legends lobby card generator — support bot WA, Telegram, website, dan lainnya.
 
 ## Preview
