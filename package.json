@@ -15,6 +15,6 @@
    "author": "Darrel Parker",
    "license": "MIT",
    "peerDependencies": {
-      "@napi-rs/canvas": "^1.0.0"
+      "@napi-rs/canvas": "^1.0.1"
    }
 }
